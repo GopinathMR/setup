@@ -45,3 +45,6 @@ ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 ln -sb dotfiles/.vimrc .
+
+#Add git extra commands
+git clone --depth 1 https://github.com/visionmedia/git-extras.git && cd git-extras && sudo make install & cd ..
