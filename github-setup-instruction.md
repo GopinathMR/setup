@@ -18,6 +18,7 @@
 
 - git remote add github git@github:GopinathMR/bitstarter.git
 
+Reference : http://stackoverflow.com/questions/4565700/specify-private-ssh-key-to-use-when-executing-shell-command-with-or-without-ruby/11251797#comment25731521_11251797
 
 
 - git remote -v
